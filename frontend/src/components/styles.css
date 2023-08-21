@@ -1,0 +1,12 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+.xclass{
+  background-color: black;
+  width: max-content;
+  height: max-content;
+}
