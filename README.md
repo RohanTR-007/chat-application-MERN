@@ -64,8 +64,8 @@ Start the Client
 ### Notifications 
 ### Add or Remove users from group
 ### View Other user Profile
-## Made By
 
-- [@Rohan ] (https://github.com/RohanTR-007)https://github.com/RohanTR-007)
+## Made By
+- [@Rohan] (https://github.com/RohanTR-007)
 
   
